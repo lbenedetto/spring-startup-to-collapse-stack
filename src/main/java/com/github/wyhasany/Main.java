@@ -25,7 +25,7 @@ public class Main {
         System.out.println(
             """
             Usage: java -jar converter.jar <input> <output>
-                        
+            
             Example command:
               java -jar input.json output.collapsed
             """);
